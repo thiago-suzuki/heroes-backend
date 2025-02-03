@@ -20,7 +20,7 @@ Aplicação de Cadastro e Consulta de Heróis que Salvam o Mundo
 - Pacote de Gerenciamento de Dependências: NPM
 - Framework: Express
 - Deploy: Render
-- Link Deploy: https://dashboard-macchines-backend.onrender.com
+- Link Deploy: https://heroes-backend-grkf.onrender.com
 
 <br>
 
